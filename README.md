@@ -1,4 +1,4 @@
-# ParallelNeuralNet
+# Parallelizing a Neural Net
 Machine Learning for Image Classification (with parallelization)
 
 ## Introduction:
