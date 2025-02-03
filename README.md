@@ -1,5 +1,5 @@
 # Parallelizing a Neural Net
-Machine Learning for Image Classification (with parallelization)
+Machine Learning in C for Image Classification (with parallelization)
 
 ## Introduction:
 In this project, we compare performance of strategies used for matrix-matrix multiplication.
